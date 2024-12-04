@@ -2,11 +2,14 @@
 
 	pip install -r requirements.txt --user 
 
+* To update typing_extension:
+
+	pip install --upgrade typing_extensions
+
 * To launch application:
 	
 	python3 code/ml.py
 
- 
 * To run Test cases:
 
 	python3 -m pytest tests
